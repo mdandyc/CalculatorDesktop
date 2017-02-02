@@ -96,7 +96,6 @@ public class Calculator {
 				int angkake1v2=Integer.parseInt(angkake1);
 				int angkake2v2=Integer.parseInt(angkake2);
 				int nilai;
-				String keterangan;
 				
 				if(rdbtnTambah.isSelected()){
 					nilai=angkake1v2+angkake2v2;
